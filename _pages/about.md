@@ -1,50 +1,90 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
+# title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+# excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+<!-- <a href="" style="color: #1616a0; text-decoration: none;"></a> -->
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Welcome to my homepage! 
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+I am currently an IQIM postdoctoral scholar at California Institute of Technology, supervised by <a href="http://theory.caltech.edu/~preskill/" style="color: #1616a0; text-decoration: none;">John Preskill</a>. I will join Perimeter Institute for Theoretical Physics on September 2023 as a junior research faculty. 
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+I received my PhD degree in physics (concentrating on quantum information physics) from Yale University in 2021, supervised by <a href="https://pme.uchicago.edu/faculty/liang-jiang" style="color: #1616a0; text-decoration: none;">Liang Jiang</a>. My thesis title is 
+<a href="https://elischolar.library.yale.edu/gsas_dissertations/146/" style="color: #1616a0; text-decoration: none;">"Error-corrected quantum metrology"</a>. I obtained my Bachelor's degree from Kuang Yaming Honors School at Nanjing University in 2016. 
 
-**Markdown generator**
+My research interests include quantum metrology, quantum error correction and the interplay between them. Below are some selected publications of mine. 
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+## Error-corrected Quantum Metrology
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+### Achieving the Heisenberg limit in quantum metrology using quantum error correction
+Sisi Zhou, Mengzhen Zhang, John Preskill, Liang Jiang\\
+*<a href="https://www.nature.com/articles/s41467-017-02510-3" style="color: #1616a0; text-decoration: none;">Nature Communications 9, 78 (2018)</a> & <a href="https://qipconference.org/2018/qutech.nl/qip2018/qip-2018-conference-schedule/index.html" style="color: #1616a0; text-decoration: none;">QIP 2018</a>* <a href="https://arxiv.org/abs/1706.02445" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[arXiv]</a> <a href="https://collegerama.tudelft.nl/Mediasite/Showcase/qip2018/Presentation/a46a51e8f5fd4fe1a07a1bcf28c343011d" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[talk at QIP]</a>
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+### Ancilla-free quantum error correction codes for quantum metrology
+David Layden$^\*$, Sisi Zhou$^\*$, Paola Cappellaro, Liang Jiang\\
+*<a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.040502" style="color: #1616a0; text-decoration: none;">Physical Review Letters, 122(4):040502 (2019)</a>* <a href="https://arxiv.org/abs/1811.01450" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[arXiv]</a>
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+
+### Optimal approximate quantum error correction for quantum metrology
+Sisi Zhou, Liang Jiang\\
+*<a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.013235" style="color: #1616a0; text-decoration: none;">Physical Review Research, 2(1):013235 (2020)</a>* <a href="https://arxiv.org/abs/1910.08472" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[arXiv]</a>
+
+### Optimal probes and error-correction schemes in multi-parameter quantum metrology 
+Wojciech Górecki$^\*$, Sisi Zhou$^\*$, Liang Jiang, Rafał Demkowicz-Dobrzański\\
+*<a href="https://quantum-journal.org/papers/q-2020-07-02-288/" style="color: #1616a0; text-decoration: none;">Quantum, 4:288 (2020)</a>* <a href="https://arxiv.org/abs/1901.00896" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[arXiv]</a>
+
+### Asymptotic theory of quantum channel estimation
+Sisi Zhou, Liang Jiang\\
+*<a href="https://www.nature.com/articles/s41467-017-02510-3" style="color: #1616a0; text-decoration: none;">PRX Quantum, 2:010343 (2021)</a> & <a href="https://www.mcqst.de/qip2021/program/wednesday.html" style="color: #1616a0; text-decoration: none;">QIP 2021</a>* <a href="https://arxiv.org/abs/2003.10559" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[arXiv]</a> <a href="https://www.youtube.com/watch?v=-xG7ksKoNjc" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[talk at QIP]</a>
+
+### Achieving metrological limits using ancilla-free quantum error-correcting codes
+Sisi Zhou$^\*$, Argyris Giannisis Manes$^\*$, Liang Jiang\\
+*<a href="https://arxiv.org/abs/2303.00881" style="color: #1616a0; text-decoration: none;">arXiv preprint: 2303.00881</a>*
+
+## Quantum Metrology
+
+### Modern description of Rayleigh’s criterion
+Sisi Zhou, Liang Jiang\\
+*<a href="https://journals.aps.org/pra/abstract/10.1103/PhysRevA.99.013808" style="color: #1616a0; text-decoration: none;">Physical Review A, 99(1):013808 [Editor’s Suggestion] (2019)</a>* <a href="https://arxiv.org/abs/1801.02917" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[arXiv]</a>
+
+### Saturating the quantum Cramér–Rao bound using LOCC
+Sisi Zhou, Chang-Ling Zou, Liang Jiang\\
+*<a href="https://iopscience.iop.org/article/10.1088/2058-9565/ab71f8" style="color: #1616a0; text-decoration: none;">Quantum Science and Technology, 5(2):025005 (2020)</a>* <a href="https://arxiv.org/abs/1809.06017" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[arXiv]</a>
+
+### Optimal protocols for quantum metrology with noisy measurements
+Sisi Zhou, Spyridon Michalakis, Tuvia Gefen\\
+*<a href="https://arxiv.org/abs/2210.11393" style="color: #1616a0; text-decoration: none;">arXiv preprint: 2210.11393</a>* 
+
+## Quantum Error Correction
+
+### New perspectives on covariant quantum error correction
+Sisi Zhou, Zi-Wen Liu, Liang Jiang\\
+*<a href="https://quantum-journal.org/papers/q-2021-08-09-521/" style="color: #1616a0; text-decoration: none;">Quantum, 5:521 (2021)</a>* <a href="https://arxiv.org/abs/2005.11918" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[arXiv]</a>
+
+### Quantum error correction meets continuous symmetries: fundamental trade-oﬀs and case studies
+Zi-Wen Liu, Sisi Zhou\\
+*<a href="https://arxiv.org/abs/2111.06360" style="color: #1616a0; text-decoration: none;">arXiv preprint: 2111.06360</a> & QIP 2022*  <a href="https://www.youtube.com/watch?v=D461ex95fE4" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[talk at QIP]</a>
+
+## Quantum Learning
+
+### Quantum advantages for Pauli channel estimation
+Senrui Chen, Sisi Zhou, Alireza Seif, Liang Jiang\\
+*<a href="https://journals.aps.org/pra/abstract/10.1103/PhysRevA.105.032435" style="color: #1616a0; text-decoration: none;">Physical Review A, 105(3):032435 (2022)</a>* <a href="https://arxiv.org/abs/2108.08488" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[arXiv]</a>
+
+### Shadow distillation: Quantum error mitigation with classical shadows for near-term quantum processors
+Alireza Seif$^\*$, Ze-Pei Cian$^\*$, Sisi Zhou, Senrui Chen, Liang Jiang\\
+*<a href="https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.4.010303" style="color: #1616a0; text-decoration: none;">PRX Quantum, 4:010303 (2023)</a>* <a href="https://arxiv.org/abs/2203.07309" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[arXiv]</a>
+
+
+
+$^\*$First authorship is shared.
+{: .notice}
