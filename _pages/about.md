@@ -71,7 +71,7 @@ Sisi Zhou, Zi-Wen Liu, Liang Jiang\\
 *<a href="https://quantum-journal.org/papers/q-2021-08-09-521/" style="color: #1616a0; text-decoration: none;">Quantum, 5:521 (2021)</a>* <a href="https://arxiv.org/abs/2005.11918" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[arXiv]</a>
 
 ### Quantum error correction meets continuous symmetries: fundamental trade-oﬀs and case studies
-Zi-Wen Liu, Sisi Zhou\\
+Zi-Wen Liu$^\*$, Sisi Zhou$^\*$\\
 *<a href="https://arxiv.org/abs/2111.06360" style="color: #1616a0; text-decoration: none;">arXiv preprint: 2111.06360</a> & QIP 2022*  <a href="https://www.youtube.com/watch?v=D461ex95fE4" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[talk at QIP]</a>
 
 ## Quantum Learning
@@ -86,5 +86,5 @@ Alireza Seif$^\*$, Ze-Pei Cian$^\*$, Sisi Zhou, Senrui Chen, Liang Jiang\\
 
 
 
-$^\*$First authorship is shared.
+$^\*$ denotes equal contribution or alphabetical order.
 {: .notice}
