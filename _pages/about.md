@@ -13,7 +13,7 @@ redirect_from:
 
 Welcome to my homepage! 
 
-I am currently an IQIM postdoctoral scholar at California Institute of Technology, supervised by <a href="http://theory.caltech.edu/~preskill/" style="color: #1616a0; text-decoration: none;">John Preskill</a>. I will join Perimeter Institute for Theoretical Physics on September 2023 as a junior research faculty. 
+My name is Sisi Zhou. I am currently an IQIM postdoctoral scholar at California Institute of Technology, supervised by <a href="http://theory.caltech.edu/~preskill/" style="color: #1616a0; text-decoration: none;">John Preskill</a>. I will join Perimeter Institute for Theoretical Physics on September 2023 as a junior research faculty. 
 
 
 
