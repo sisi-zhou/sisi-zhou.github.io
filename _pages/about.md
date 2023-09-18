@@ -62,7 +62,7 @@ Sisi Zhou, Chang-Ling Zou, Liang Jiang\\
 
 ### Optimal protocols for quantum metrology with noisy measurements
 Sisi Zhou, Spyridon Michalakis, Tuvia Gefen\\
-*<a href="https://arxiv.org/abs/2210.11393" style="color: #1616a0; text-decoration: none;">arXiv preprint: 2210.11393</a>* <a style="color: #2f2f31;">(accepted by PRX Quantum)</a>
+*<a href="https://arxiv.org/abs/2210.11393" style="color: #1616a0; text-decoration: none;">arXiv preprint: 2210.11393</a>* (accepted by PRX Quantum)
 
 ## Quantum Error Correction
 
@@ -72,7 +72,7 @@ Sisi Zhou, Zi-Wen Liu, Liang Jiang\\
 
 ### Quantum error correction meets continuous symmetries: fundamental trade-oﬀs and case studies
 Zi-Wen Liu$^\*$, Sisi Zhou$^\*$\\
-*<a href="https://arxiv.org/abs/2111.06360" style="color: #1616a0; text-decoration: none;">arXiv preprint: 2111.06360</a> & QIP 2022*  <a href="https://www.youtube.com/watch?v=D461ex95fE4" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[talk at QIP]</a> <a style="color: #2f2f31;">(accepted by npj Quantum Information)</a>
+*<a href="https://arxiv.org/abs/2111.06360" style="color: #1616a0; text-decoration: none;">arXiv preprint: 2111.06360</a> & QIP 2022*  <a href="https://www.youtube.com/watch?v=D461ex95fE4" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[talk at QIP]</a> (accepted by npj Quantum Information)
 
 ## Quantum Learning
 
