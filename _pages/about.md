@@ -62,7 +62,7 @@ Sisi Zhou, Chang-Ling Zou, Liang Jiang\\
 
 ### Optimal protocols for quantum metrology with noisy measurements
 Sisi Zhou, Spyridon Michalakis, Tuvia Gefen\\
-*<a href="https://arxiv.org/abs/2210.11393" style="color: #1616a0; text-decoration: none;">arXiv preprint: 2210.11393</a>* <a style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">(accepted by PRX Quantum)</a>
+*<a href="https://arxiv.org/abs/2210.11393" style="color: #1616a0; text-decoration: none;">arXiv preprint: 2210.11393</a>* <a style="color: #2f2f31; ">(accepted by PRX Quantum)</a>
 
 ## Quantum Error Correction
 
