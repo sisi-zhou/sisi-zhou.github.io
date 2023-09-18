@@ -13,7 +13,7 @@ redirect_from:
 
 Welcome to my homepage! 
 
-My name is Sisi Zhou. I am currently an IQIM postdoctoral scholar at California Institute of Technology, supervised by <a href="http://theory.caltech.edu/~preskill/" style="color: #1616a0; text-decoration: none;">John Preskill</a>. I will join Perimeter Institute for Theoretical Physics on September 2023 as a junior research faculty. 
+My name is Sisi Zhou. I am a junior research faculty at Perimeter Institute for Theoretical Physics starting September 2023. Previously, I was an IQIM postdoctoral scholar at California Institute of Technology, supervised by <a href="http://theory.caltech.edu/~preskill/" style="color: #1616a0; text-decoration: none;">John Preskill</a>. 
 
 
 
@@ -62,13 +62,13 @@ Sisi Zhou, Chang-Ling Zou, Liang Jiang\\
 
 ### Optimal protocols for quantum metrology with noisy measurements
 Sisi Zhou, Spyridon Michalakis, Tuvia Gefen\\
-*<a href="https://arxiv.org/abs/2210.11393" style="color: #1616a0; text-decoration: none;">arXiv preprint: 2210.11393</a>* 
+*<a href="https://arxiv.org/abs/2210.11393" style="color: #1616a0; text-decoration: none;">arXiv preprint: 2210.11393</a>* <a style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">(accepted by PRX Quantum)</a>
 
 ## Quantum Error Correction
 
 ### New perspectives on covariant quantum error correction
 Sisi Zhou, Zi-Wen Liu, Liang Jiang\\
-*<a href="https://quantum-journal.org/papers/q-2021-08-09-521/" style="color: #1616a0; text-decoration: none;">Quantum, 5:521 (2021)</a>* <a href="https://arxiv.org/abs/2005.11918" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[arXiv]</a>
+*<a href="https://quantum-journal.org/papers/q-2021-08-09-521/" style="color: #1616a0; text-decoration: none;">Quantum, 5:521 (2021)</a>* <a href="https://arxiv.org/abs/2005.11918" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[arXiv]</a> <a style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">(accepted by npj Quantum Information)</a>
 
 ### Quantum error correction meets continuous symmetries: fundamental trade-oﬀs and case studies
 Zi-Wen Liu$^\*$, Sisi Zhou$^\*$\\
