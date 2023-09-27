@@ -18,4 +18,4 @@ Each year Perimeter Institute for Theoretical Physics invites applications for p
 
 **[PhD Student](https://perimeterinstitute.ca/phd-students){:target="_blank"}**
 
-I am looking to hire one PhD student Fall 2024. Contact me if you are interested. Details to follow. 
+I am looking to hire one Fall 2024 PhD student. Contact me if you are interested. Details to follow. 
