@@ -8,7 +8,8 @@ author_profile: true
 {% include base_path %}
 
 &nbsp;
-**[PSI Master's Program](https://perimeterinstitute.ca/psi-masters-program){:target="_blank"}**
+
+<font size="2">**[PSI Master's Program](https://perimeterinstitute.ca/psi-masters-program){:target="_blank"}**</font>
 
 Perimeter Institute offers a condensed one-year program in collaboration with the University of Waterloo. Each year, Perimeter admits around 25 exceptional students from a multitude of countries. Those students are awarded a scholarship that covers costs such as tuition, meals and accommodations, among other necessities. Two phases of coursework covers both foundational graduate-level subjects and modern topics from specific fields. Researchwise, students may choose to work under the guidance of Perimeter faculty members, such as myself, on research projects during the master program. 
 
