@@ -17,6 +17,6 @@ Perimeter Institute offers a condensed one-year program in collaboration with th
 
 Each year Perimeter Institute for Theoretical Physics invites applications for postdoctoral positions, including named fellowships, from new and recent PhDs working in fundamental theoretical physics. Most postdoctoral positions are offered for a period of three years and four or five years oppotunities are also available. [Quantum information](https://perimeterinstitute.ca/quantum-information-0){:target="_blank"} is one of the research areas at Perimeter that hires postdocs. Postdoctoral fellows at Perimeter have extensive freedoms in choosing their research topics and multiple collaboration opportunities with both faculty members at Perimeter and at the University of Waterloo. 
 
-**[Graduate Student](https://perimeterinstitute.ca/phd-students){:target="_blank"}**
+**[PhD Student](https://perimeterinstitute.ca/phd-students){:target="_blank"}**
 
 I am looking to hire one PhD student Fall 2024. Contact me if you are interested. Details to follow. 
