@@ -20,7 +20,7 @@ My name is Sisi Zhou. I am a junior research faculty at Perimeter Institute for 
 I received my PhD degree in physics (concentrating on quantum information physics) from Yale University in 2021, supervised by <a href="https://pme.uchicago.edu/faculty/liang-jiang" style="color: #1616a0; text-decoration: none;">Liang Jiang</a>. My thesis title is 
 <a href="https://elischolar.library.yale.edu/gsas_dissertations/146/" style="color: #1616a0; text-decoration: none;">"Error-corrected quantum metrology"</a>. I obtained my Bachelor's degree from Kuang Yaming Honors School at Nanjing University in 2016. 
 
-My research interests include quantum metrology, quantum error correction and the interplay between them. Below are some selected publications of mine. 
+My research interests include quantum metrology, quantum error correction and the interplay between them. Below are some selected publications of mine. See information on job opportunies <a href="https://sisi-zhou.github.io//job/" style="color: #1616a0; text-decoration: none;">here</a>. 
 
 ## Error-corrected Quantum Metrology
 
