@@ -8,7 +8,6 @@ author_profile: true
 {% include base_path %}
 
 &nbsp;
-&nbsp;
 
 **[PSI Master's Program](https://perimeterinstitute.ca/psi-masters-program){:target="_blank"}**
 
