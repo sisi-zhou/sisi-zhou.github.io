@@ -22,7 +22,7 @@ Perimeter Institute offers a condensed one-year program in collaboration with th
 * PSI recruits worldwide: 85% of students come from outside of Canada
 * PSI seeks extraordinary talent who may have non-traditional academic backgrounds, but have demonstrated exceptional scientific aptitude.  
 
-**Apply online at www.perimeterinstitute.ca/apply**
+**Apply online at [www.perimeterinstitute.ca/apply](https://www.perimeterinstitute.ca/apply)**
 
 ## **[Postdoctoral Fellowship at Perimeter](https://perimeterinstitute.ca/jobs/perimeter-postdoctoral-program){:target="_blank"}**
 
@@ -30,7 +30,7 @@ Each year Perimeter Institute for Theoretical Physics invites applications for p
 
 **Fall 2024:** 
 
-**Apply online at https://academicjobsonline.org/ajo/jobs/25335**
+**Apply online at [https://academicjobsonline.org/ajo/jobs/25335](https://academicjobsonline.org/ajo/jobs/25335)**
 
 ## **[PhD Student](https://perimeterinstitute.ca/phd-students){:target="_blank"}**
 
