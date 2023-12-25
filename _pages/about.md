@@ -75,8 +75,7 @@ Sisi Zhou, Zi-Wen Liu, Liang Jiang\\
 
 ### Approximate symmetries and quantum error correction
 Zi-Wen Liu$^\*$, Sisi Zhou$^\*$\\
-*<a href="[https://quantum-journal.org/papers/q-2021-08-09-521/](https://www.nature.com/articles/s41534-023-00788-4)" style="color: #1616a0; text-decoration: none;">npj Quantum Information, 9:119 (2023)
-Quantum, 5:521 (2021)</a>* <a href="https://arxiv.org/abs/2111.06355" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[arXiv]</a> <a href="https://www.youtube.com/watch?v=D461ex95fE4" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[talk at QIP]</a>
+*<a href="[https://quantum-journal.org/papers/q-2021-08-09-521/](https://www.nature.com/articles/s41534-023-00788-4)" style="color: #1616a0; text-decoration: none;">npj Quantum Information, 9:119 (2023)</a>* <a href="https://arxiv.org/abs/2111.06355" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[arXiv]</a> <a href="https://www.youtube.com/watch?v=D461ex95fE4" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[talk at QIP]</a>
 
 ## Quantum Learning
 
