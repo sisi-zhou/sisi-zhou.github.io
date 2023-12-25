@@ -34,9 +34,9 @@ Each year Perimeter Institute for Theoretical Physics invites applications for p
 
 ## **[PhD Student](https://perimeterinstitute.ca/phd-students){:target="_blank"}**
 
-I am looking to hire one Fall 2024 PhD student. Contact me if you are interested. Details to follow. 
+PhD students supervised by Faculty at Perimeter Institute receive their degree from a partnering university where their supervisor has a full or adjunct appointment. To apply to become a PhD student in my group, please apply to [PhD Programs at Department of Physics and Astronomy at the University of Waterloo]( https://uwaterloo.ca/physics-astronomy/graduate-studies/phd-programs) (either [Physics](https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/future-students/programs/physics-phd-quantum-information-waterloo) track or [Physics (Quantum Information)](https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/future-students/programs/physics-phd-quantum-information-waterloo) track) and indicate my name in the essays. Deadline is January 9 for admission in September 2024. Please also apply to [PhD Residency Program Award](https://perimeterinstitute.ca/phd-students) at Perimeter simultaneously to gain additional benefits (beyond being a PhD student at UWaterloo) including additional resources and funding. 
 
 ## **Summer Research**
 
-I welcome undergraduate students who would like to do a summer research project with me. 
+I welcome undergraduate students who would like to do a summer research project with me. Please apply to [PSI Start Program](https://perimeterinstitute.ca/psi-start-program) if you need financial support. Perimeter Institute invites students to join its world-leading research community for a part-time 10-week online school in theoretical physics beginning in May 2024. In addition, some of these students will also come to Perimeter for an in-person paid research internship. The students accepted as interns will be fully immersed in Perimeter’s renowned research environment, work on projects alongside Perimeter researchers, and potentially even publish their work. 
 
