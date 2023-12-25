@@ -18,9 +18,11 @@ My name is Sisi Zhou. I am a junior research faculty at Perimeter Institute for 
 I received my PhD degree in physics (concentrating on quantum information physics) from Yale University in 2021, supervised by <a href="https://pme.uchicago.edu/faculty/liang-jiang" style="color: #1616a0; text-decoration: none;">Liang Jiang</a>. My thesis title is 
 <a href="https://elischolar.library.yale.edu/gsas_dissertations/146/" style="color: #1616a0; text-decoration: none;">"Error-corrected quantum metrology"</a>. I obtained my Bachelor's degree from Kuang Yaming Honors School at Nanjing University in 2016. 
 
-My research interests include quantum metrology, quantum error correction and the interplay between them. Below are some selected publications of mine. 
+My research interests include quantum metrology, quantum error correction and the interplay between them. Selected publications of mine can be found below. 
 
 My email address is szhou1 at perimeterinstitute dot ca. See information on job opportunities <a href="https://sisi-zhou.github.io//job/" style="color: #1616a0; text-decoration: none;">here</a>. 
+
+(Last updated on Dec 25, 2024)  
 
 ## Error-corrected Quantum Metrology
 
@@ -71,9 +73,10 @@ Sisi Zhou, Spyridon Michalakis, Tuvia Gefen\\
 Sisi Zhou, Zi-Wen Liu, Liang Jiang\\
 *<a href="https://quantum-journal.org/papers/q-2021-08-09-521/" style="color: #1616a0; text-decoration: none;">Quantum, 5:521 (2021)</a>* <a href="https://arxiv.org/abs/2005.11918" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[arXiv]</a> 
 
-### Quantum error correction meets continuous symmetries: fundamental trade-oﬀs and case studies
+### Approximate symmetries and quantum error correction
 Zi-Wen Liu$^\*$, Sisi Zhou$^\*$\\
-*<a href="https://arxiv.org/abs/2111.06360" style="color: #1616a0; text-decoration: none;">arXiv preprint: 2111.06360</a> & QIP 2022*  <a href="https://www.youtube.com/watch?v=D461ex95fE4" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[talk at QIP]</a> (accepted by npj Quantum Information)
+*<a href="[https://quantum-journal.org/papers/q-2021-08-09-521/](https://www.nature.com/articles/s41534-023-00788-4)" style="color: #1616a0; text-decoration: none;">npj Quantum Information, 9:119 (2023)
+Quantum, 5:521 (2021)</a>* <a href="https://arxiv.org/abs/2111.06355" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[arXiv]</a> <a href="https://www.youtube.com/watch?v=D461ex95fE4" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[talk at QIP]</a>
 
 ## Quantum Learning
 
