@@ -22,7 +22,7 @@ My research interests include quantum metrology, quantum error correction and th
 
 My email address is szhou1 at perimeterinstitute dot ca. See information on job opportunities <a href="https://sisi-zhou.github.io//job/" style="color: #1616a0; text-decoration: none;">here</a>. 
 
-(Last updated on Dec 25, 2024)  
+(Last updated on Dec 25, 2023)  
 
 ## Error-corrected Quantum Metrology
 
