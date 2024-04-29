@@ -67,7 +67,7 @@ Sisi Zhou, Spyridon Michalakis, Tuvia Gefen\\
 
 ### Limits of noisy quantum metrology with restricted quantum controls
 Sisi Zhou\\
-*<a href="https://arxiv.org/abs/2402.18765" style="color: #1616a0; text-decoration: none;">arXiv: 2402.18765</a>*  <a style="color: #2f2f31"; text-decoration: none;>[accepted to TQC2024]</a>
+*<a href="https://arxiv.org/abs/2402.18765" style="color: #1616a0; text-decoration: none;">arXiv: 2402.18765</a>*  <a style="color: #2f2f31; text-decoration: none;">[accepted to TQC2024]</a>
 
 ## Quantum Error Correction
 
