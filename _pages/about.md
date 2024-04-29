@@ -22,7 +22,7 @@ My research interests include quantum metrology, quantum error correction and th
 
 My email address is szhou1 at perimeterinstitute dot ca. See information on job opportunities <a href="https://sisi-zhou.github.io//job/" style="color: #1616a0; text-decoration: none;">here</a>. 
 
-(Last updated on Dec 25, 2023)  
+(Last updated on April 29, 2024)  
 
 ## Error-corrected Quantum Metrology
 
@@ -33,8 +33,6 @@ Sisi Zhou, Mengzhen Zhang, John Preskill, Liang Jiang\\
 ### Ancilla-free quantum error correction codes for quantum metrology
 David Layden$^\*$, Sisi Zhou$^\*$, Paola Cappellaro, Liang Jiang\\
 *<a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.040502" style="color: #1616a0; text-decoration: none;">Physical Review Letters, 122(4):040502 (2019)</a>* <a href="https://arxiv.org/abs/1811.01450" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[arXiv]</a>
-
-
 
 ### Optimal approximate quantum error correction for quantum metrology
 Sisi Zhou, Liang Jiang\\
@@ -50,7 +48,8 @@ Sisi Zhou, Liang Jiang\\
 
 ### Achieving metrological limits using ancilla-free quantum error-correcting codes
 Sisi Zhou$^\*$, Argyris Giannisis Manes$^\*$, Liang Jiang\\
-*<a href="https://arxiv.org/abs/2303.00881" style="color: #1616a0; text-decoration: none;">arXiv preprint: 2303.00881</a>*
+*<a href="https://journals.aps.org/pra/abstract/10.1103/PhysRevA.109.042406" style="color: #1616a0; text-decoration: none;">Physical Review A, 109:042406 (2024)</a>* <a href="https://arxiv.org/abs/2303.00881" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[arXiv]</a>
+
 
 ## Quantum Metrology
 
@@ -66,6 +65,9 @@ Sisi Zhou, Chang-Ling Zou, Liang Jiang\\
 Sisi Zhou, Spyridon Michalakis, Tuvia Gefen\\
 *<a href="https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.4.040305" style="color: #1616a0; text-decoration: none;">PRX Quantum, 4:040305 (2023)</a>* <a href="https://arxiv.org/abs/2210.11393" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[arXiv]</a> 
 
+### Limits of noisy quantum metrology with restricted quantum controls
+Sisi Zhou\\
+*<a href="https://arxiv.org/abs/2402.18765" style="color: #1616a0; text-decoration: none;">arXiv: 2402.18765</a>* </a> <a style="color: #2f2f31; text-decoration: text-decoration-style: dotted;">[accepted to TQC2024]</a>
 
 ## Quantum Error Correction
 
@@ -86,7 +88,6 @@ Senrui Chen, Sisi Zhou, Alireza Seif, Liang Jiang\\
 ### Shadow distillation: Quantum error mitigation with classical shadows for near-term quantum processors
 Alireza Seif$^\*$, Ze-Pei Cian$^\*$, Sisi Zhou, Senrui Chen, Liang Jiang\\
 *<a href="https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.4.010303" style="color: #1616a0; text-decoration: none;">PRX Quantum, 4:010303 (2023)</a>* <a href="https://arxiv.org/abs/2203.07309" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[arXiv]</a>
-
 
 
 $^\*$ denotes equal contribution or alphabetical order.
