@@ -22,7 +22,7 @@ My research interests include quantum metrology, quantum error correction and th
 
 My email address is szhou1 at perimeterinstitute dot ca. See information on job opportunities <a href="https://sisi-zhou.github.io//job/" style="color: #1616a0; text-decoration: none;">here</a>. 
 
-(Last updated on April 29, 2024)  
+(Last updated on May 03, 2024)  
 
 ## Error-corrected Quantum Metrology
 
@@ -88,6 +88,10 @@ Senrui Chen, Sisi Zhou, Alireza Seif, Liang Jiang\\
 ### Shadow distillation: Quantum error mitigation with classical shadows for near-term quantum processors
 Alireza Seif$^\*$, Ze-Pei Cian$^\*$, Sisi Zhou, Senrui Chen, Liang Jiang\\
 *<a href="https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.4.010303" style="color: #1616a0; text-decoration: none;">PRX Quantum, 4:010303 (2023)</a>* <a href="https://arxiv.org/abs/2203.07309" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[arXiv]</a>
+
+### Tight bounds on Pauli channel learning without entanglement
+Senrui Chen, Changhun Oh, Sisi Zhou, Hsin-Yuan Huang, Liang Jiang\\
+*<a href="https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.132.180805" style="color: #1616a0; text-decoration: none;">Physical Review Letters, 132:180805 (2024)</a>* <a href="https://arxiv.org/abs/2309.13461" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[arXiv]</a>
 
 
 $^\*$ denotes equal contribution or alphabetical order.
