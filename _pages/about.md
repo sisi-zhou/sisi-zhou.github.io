@@ -76,8 +76,9 @@ Sisi Zhou, Zi-Wen Liu, Liang Jiang\\
 *<a href="https://quantum-journal.org/papers/q-2021-08-09-521/" style="color: #1616a0; text-decoration: none;">Quantum, 5:521 (2021)</a>* <a href="https://arxiv.org/abs/2005.11918" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[arXiv]</a> 
 
 ### Approximate symmetries and quantum error correction
+#### (Long version: Quantum error correction meets continuous symmetries: fundamental trade-offs and case studies)
 Zi-Wen Liu$^\*$, Sisi Zhou$^\*$\\
-*<a href="https://www.nature.com/articles/s41534-023-00788-4" style="color: #1616a0; text-decoration: none;">npj Quantum Information, 9:119 (2023)</a>* & *QIP 2022* <a href="https://arxiv.org/abs/2111.06355" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[arXiv]</a> <a href="https://www.youtube.com/watch?v=D461ex95fE4" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[talk at QIP]</a>
+*<a href="https://www.nature.com/articles/s41534-023-00788-4" style="color: #1616a0; text-decoration: none;">npj Quantum Information, 9:119 (2023)</a>* & *QIP 2022* <a href="https://arxiv.org/abs/2111.06355" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[arXiv1]</a> <a href="https://arxiv.org/abs/2111.06360" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[arXiv2]</a> <a href="https://www.youtube.com/watch?v=D461ex95fE4" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[talk at QIP]</a>
 
 ## Quantum Learning
 
