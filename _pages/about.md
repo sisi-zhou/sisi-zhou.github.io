@@ -38,7 +38,7 @@ Chao Yin, Victor V. Albert, Sisi Zhou\\
 
 ### Limits of noisy quantum metrology with restricted quantum controls
 Sisi Zhou\\
-*<a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.170801" style="color: #1616a0; text-decoration: none;">Physical Review Letters 133, 170801 (2024)</a>* <a href="https://arxiv.org/abs/2402.18765" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[arXiv]</a> <a href="https://www.youtube.com/watch?v=aAzV9PORL5Q" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[talk at TQC2024]</a>
+*<a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.170801" style="color: #1616a0; text-decoration: none;">Physical Review Letters 133, 170801 (2024) & & <a href="https://tqc-conference.org/talks2024/" style="color: #1616a0; text-decoration: none;">TQC 2024</a></a>* <a href="https://arxiv.org/abs/2402.18765" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[arXiv]</a> <a href="https://www.youtube.com/watch?v=aAzV9PORL5Q" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[talk at TQC]</a>
 
 ### Tight bounds on Pauli channel learning without entanglement
 Senrui Chen, Changhun Oh, Sisi Zhou, Hsin-Yuan Huang, Liang Jiang\\
@@ -50,7 +50,7 @@ Sisi Zhou$^\*$, Argyris Giannisis Manes$^\*$, Liang Jiang\\
 
 ### Approximate symmetries and quantum error correction (_Long version: Quantum error correction meets continuous symmetries: fundamental trade-offs and case studies_)
 Zi-Wen Liu$^\*$, Sisi Zhou$^\*$\\
-*<a href="https://www.nature.com/articles/s41534-023-00788-4" style="color: #1616a0; text-decoration: none;">npj Quantum Information, 9:119 (2023)</a>* & *QIP 2022* <a href="https://arxiv.org/abs/2111.06355" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[arXiv1]</a> <a href="https://arxiv.org/abs/2111.06360" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[arXiv2]</a> <a href="https://www.youtube.com/watch?v=D461ex95fE4" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[talk at QIP2022]</a>
+*<a href="https://www.nature.com/articles/s41534-023-00788-4" style="color: #1616a0; text-decoration: none;">npj Quantum Information, 9:119 (2023)</a>* & *QIP 2022* <a href="https://arxiv.org/abs/2111.06355" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[arXiv1]</a> <a href="https://arxiv.org/abs/2111.06360" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[arXiv2]</a> <a href="https://www.youtube.com/watch?v=D461ex95fE4" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[talk at QIP]</a>
 
 ### Optimal protocols for quantum metrology with noisy measurements
 Sisi Zhou, Spyridon Michalakis, Tuvia Gefen\\
@@ -70,7 +70,7 @@ Sisi Zhou, Zi-Wen Liu, Liang Jiang\\
 
 ### Asymptotic theory of quantum channel estimation
 Sisi Zhou, Liang Jiang\\
-*<a href="https://www.nature.com/articles/s41467-017-02510-3" style="color: #1616a0; text-decoration: none;">PRX Quantum, 2:010343 (2021)</a> & <a href="https://www.mcqst.de/qip2021/program/wednesday.html" style="color: #1616a0; text-decoration: none;">QIP 2021</a>* <a href="https://arxiv.org/abs/2003.10559" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[arXiv]</a> <a href="https://www.youtube.com/watch?v=-xG7ksKoNjc" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[talk at QIP2021]</a>
+*<a href="https://www.nature.com/articles/s41467-017-02510-3" style="color: #1616a0; text-decoration: none;">PRX Quantum, 2:010343 (2021)</a> & <a href="https://www.mcqst.de/qip2021/program/wednesday.html" style="color: #1616a0; text-decoration: none;">QIP 2021</a>* <a href="https://arxiv.org/abs/2003.10559" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[arXiv]</a> <a href="https://www.youtube.com/watch?v=-xG7ksKoNjc" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[talk at QIP]</a>
 
 ### Optimal probes and error-correction schemes in multi-parameter quantum metrology 
 Wojciech Górecki$^\*$, Sisi Zhou$^\*$, Liang Jiang, Rafał Demkowicz-Dobrzański\\
@@ -94,7 +94,7 @@ Sisi Zhou, Liang Jiang\\
 
 ### Achieving the Heisenberg limit in quantum metrology using quantum error correction
 Sisi Zhou, Mengzhen Zhang, John Preskill, Liang Jiang\\
-*<a href="https://www.nature.com/articles/s41467-017-02510-3" style="color: #1616a0; text-decoration: none;">Nature Communications 9, 78 (2018)</a> & <a href="https://qipconference.org/2018/qutech.nl/qip2018/qip-2018-conference-schedule/index.html" style="color: #1616a0; text-decoration: none;">QIP 2018</a>* <a href="https://arxiv.org/abs/1706.02445" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[arXiv]</a> <a href="https://collegerama.tudelft.nl/Mediasite/Showcase/qip2018/Presentation/a46a51e8f5fd4fe1a07a1bcf28c343011d" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[talk at QIP2018]</a>
+*<a href="https://www.nature.com/articles/s41467-017-02510-3" style="color: #1616a0; text-decoration: none;">Nature Communications 9, 78 (2018)</a> & <a href="https://qipconference.org/2018/qutech.nl/qip2018/qip-2018-conference-schedule/index.html" style="color: #1616a0; text-decoration: none;">QIP 2018</a>* <a href="https://arxiv.org/abs/1706.02445" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[arXiv]</a> <a href="https://collegerama.tudelft.nl/Mediasite/Showcase/qip2018/Presentation/a46a51e8f5fd4fe1a07a1bcf28c343011d" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[talk at QIP]</a>
 
 
 $^\*$ denotes equal contribution or alphabetical order.
