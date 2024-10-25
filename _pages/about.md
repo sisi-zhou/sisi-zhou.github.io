@@ -38,7 +38,7 @@ Chao Yin, Victor V. Albert, Sisi Zhou\\
 
 ### Limits of noisy quantum metrology with restricted quantum controls
 Sisi Zhou\\
-*<a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.170801" style="color: #1616a0; text-decoration: none;">Physical Review Letters 133, 170801 (2024) & & <a href="https://tqc-conference.org/talks2024/" style="color: #1616a0; text-decoration: none;">TQC 2024</a></a>* <a href="https://arxiv.org/abs/2402.18765" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[arXiv]</a> <a href="https://www.youtube.com/watch?v=aAzV9PORL5Q" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[talk at TQC]</a>
+*<a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.170801" style="color: #1616a0; text-decoration: none;">Physical Review Letters 133, 170801 (2024) & <a href="https://tqc-conference.org/talks2024/" style="color: #1616a0; text-decoration: none;">TQC 2024</a></a>* <a href="https://arxiv.org/abs/2402.18765" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[arXiv]</a> <a href="https://www.youtube.com/watch?v=aAzV9PORL5Q" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[talk at TQC]</a>
 
 ### Tight bounds on Pauli channel learning without entanglement
 Senrui Chen, Changhun Oh, Sisi Zhou, Hsin-Yuan Huang, Liang Jiang\\
