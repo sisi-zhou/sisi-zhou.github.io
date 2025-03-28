@@ -15,7 +15,7 @@ Welcome to my homepage!
 
 My name is Sisi Zhou. I am a junior research faculty at Perimeter Institute for Theoretical Physics starting September 2023. I am also an adjunct faculty at the Department of Physics and Astronomy and the Department of Applied Mathematics at the University of Waterloo. 
 
-Previously, I was an IQIM postdoctoral scholar at California Institute of Technology, supervised by <a href="http://theory.caltech.edu/~preskill/" style="color: #1616a0; text-decoration: none;">John Preskill</a>. I received my PhD degree in physics (concentrating on quantum information physics) from Yale University in 2021, supervised by <a href="https://pme.uchicago.edu/faculty/liang-jiang" style="color: #1616a0; text-decoration: none;">Liang Jiang</a>. My thesis title was  
+From 2021-2023, I was an IQIM postdoctoral scholar at California Institute of Technology, supervised by <a href="http://theory.caltech.edu/~preskill/" style="color: #1616a0; text-decoration: none;">John Preskill</a>. I received my PhD degree in physics (concentrating on quantum information physics) from Yale University in 2021, supervised by <a href="https://pme.uchicago.edu/faculty/liang-jiang" style="color: #1616a0; text-decoration: none;">Liang Jiang</a>. My thesis title was  
 <a href="https://elischolar.library.yale.edu/gsas_dissertations/146/" style="color: #1616a0; text-decoration: none;">"Error-corrected quantum metrology"</a>. I obtained my Bachelor's degree from Kuang Yaming Honors School at Nanjing University in 2016. 
 
 My research interests include quantum metrology, quantum error correction and the interplay between them. Selected publications of mine can be found below. 
