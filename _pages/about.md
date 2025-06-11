@@ -44,6 +44,7 @@ Chao Yin, Victor V. Albert, Sisi Zhou\\
 ## Selected Publications
 
 ### Stabilizer codes for Heisenberg-limited many-body Hamiltonian estimation
+Santanu Bosu Antu, Sisi Zhou\\
 *<a href="https://quantum-journal.org/papers/q-2025-06-05-1766/" style="color: #1616a0; text-decoration: none;">Quantum, 9:1766 (2025)</a>* <a href="https://arxiv.org/abs/2408.11101" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[arXiv]</a> 
 
 ### Limits of noisy quantum metrology with restricted quantum controls
