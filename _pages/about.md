@@ -34,7 +34,7 @@ Sisi Zhou, Senrui Chen\\
 *<a href="https://arxiv.org/abs/2502.03536" style="color: #1616a0; text-decoration: none;">arXiv: 2502.03536</a>* [accepted to QSim2025]
 
 ### Advancing quantum imaging through learning theory
-Yunkai Wang, Changhun Oh, Junyu Liu, Liang Jiang, S Zhou\\
+Yunkai Wang, Changhun Oh, Junyu Liu, Liang Jiang, Sisi Zhou\\
 *<a href="https://arxiv.org/abs/2501.15685" style="color: #1616a0; text-decoration: none;">arXiv: 2501.15685</a>* 
 
 ### Small correlation is sufficient for optimal noisy quantum metrology
