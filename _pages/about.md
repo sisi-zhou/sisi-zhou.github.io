@@ -21,9 +21,13 @@ My research interests include quantum metrology, quantum error correction and th
 
 My email address is szhou1 at perimeterinstitute dot ca. See information on job opportunities <a href="https://sisi-zhou.github.io//job/" style="color: #1616a0; text-decoration: none;">here</a>. 
 
-(Last updated on Oct 25, 2024)  
+(Last updated on June 10, 2025)  
 
 ## Selected Preprints
+
+### Quantum error corrected non-Markovian metrology
+Zachary Mann, Ningping Cao, Raymond Laflamme, Sisi Zhou\\
+*<a href="https://arxiv.org/abs/2503.07745" style="color: #1616a0; text-decoration: none;">arXiv: 2503.07745</a>* 
 
 ### Randomized measurements for multi-parameter quantum metrology
 Sisi Zhou, Senrui Chen\\
