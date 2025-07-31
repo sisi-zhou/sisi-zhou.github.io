@@ -24,7 +24,7 @@ My email address is szhou1 at perimeterinstitute dot ca. See information on job 
 
 Below is a list of students I have worked with: \\
 _Current Advisee_: Himanshu Sahu (PhD) \\
-_Former Advisee_: Santanu Antu (Master —> PhD @ Yale University) \\ 
+_Former Advisee_: Santanu Antu (Master —> PhD @ Yale University) \\
 _Former Student Collaborators_: Argyris Giannisis Manes (Undergraduate —> PhD @ UChicago); Zachary Mann (Master —> Incoming PhD @ Caltech); Sophie Kadan (Undergraduate —> Incoming PhD @ Princeton); Giuseppe Calabrese (Master —> Incoming PhD @ Paul Scherrer Institute)
 
 (Last updated on July 31, 2025)  
