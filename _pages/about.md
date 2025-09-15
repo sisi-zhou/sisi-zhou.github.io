@@ -27,7 +27,7 @@ _Current Advisee_: Himanshu Sahu (PhD) \\
 _Former Advisee_: Santanu Antu (Master —> PhD @ Yale University) \\
 _Former Student Collaborators_: Argyris Giannisis Manes (Undergraduate —> PhD @ UChicago); Zachary Mann (Master —> Incoming PhD @ Caltech); Sophie Kadan (Undergraduate —> Incoming PhD @ Princeton); Giuseppe Calabrese (Master —> Incoming PhD @ Paul Scherrer Institute)
 
-(Last updated on July 31, 2025)  
+(Last updated on September 15, 2025)  
 
 ## Selected Preprints
 
