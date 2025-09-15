@@ -47,11 +47,11 @@ Chao Yin, Victor V. Albert, Sisi Zhou\\
 
 **Limitations of Gaussian measurements in quantum imaging** \\
 Yunkai Wang, Sisi Zhou\\
-*<a href="https://doi.org/10.1103/wfyl-wtz3" style="color: #1616a0; text-decoration: none;">Physical Review Letters 135, 120201 (2025)</a>* <a href="https://arxiv.org/abs/2503.06363" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[arXiv]</a> 
+*<a href="https://doi.org/10.1103/hnhp-jhr2" style="color: #1616a0; text-decoration: none;">Physical Review Letters 135:120201 (2025)</a>* <a href="https://arxiv.org/abs/2503.06363" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[arXiv]</a> 
 
 **Quantum error corrected non-Markovian metrology** \\
 Zachary Mann, Ningping Cao, Raymond Laflamme, Sisi Zhou\\
-*<a href="https://doi.org/10.1103/wfyl-wtz3" style="color: #1616a0; text-decoration: none;">PRX Quantum 6, 030321 (2025)</a>* <a href="https://arxiv.org/abs/2503.07745" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[arXiv]</a> 
+*<a href="https://doi.org/10.1103/wfyl-wtz3" style="color: #1616a0; text-decoration: none;">PRX Quantum 6:030321 (2025)</a>* <a href="https://arxiv.org/abs/2503.07745" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[arXiv]</a> 
 
 **Stabilizer codes for Heisenberg-limited many-body Hamiltonian estimation**\\
 Santanu Bosu Antu, Sisi Zhou\\
