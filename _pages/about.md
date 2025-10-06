@@ -45,6 +45,10 @@ Chao Yin, Victor V. Albert, Sisi Zhou\\
 
 ## Selected Publications
 
+**Quantum learning advantage on a scalable photonic platform** \\
+Zheng-Hao Liu, Romain Brunel, Emil E. B. Østergaard, Oscar Cordero, Senrui Chen, Yat Wong, Jens A. H. Nielsen, Axel B. Bregnsbo, Sisi Zhou, Hsin-Yuan Huang, Changhun Oh, Liang Jiang, John Preskill, Jonas S. Neergaard-Nielsen, Ulrik L. Andersen\\
+*<a href="https://doi.org/10.1126/science.adv2560" style="color: #1616a0; text-decoration: none;">Science 389.6767:1332-1335 (2025)</a>* <a href="https://arxiv.org/abs/2502.07770" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[arXiv]</a> 
+
 **Limitations of Gaussian measurements in quantum imaging** \\
 Yunkai Wang, Sisi Zhou\\
 *<a href="https://doi.org/10.1103/hnhp-jhr2" style="color: #1616a0; text-decoration: none;">Physical Review Letters 135:120201 (2025)</a>* <a href="https://arxiv.org/abs/2503.06363" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[arXiv]</a> 
