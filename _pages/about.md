@@ -23,8 +23,8 @@ My research interests include quantum metrology, quantum error correction and th
 My email address is szhou1 at perimeterinstitute dot ca. See information on job opportunities <a href="https://sisi-zhou.github.io//job/" style="color: #1616a0; text-decoration: none;">here</a>. 
 
 Below is a list of students I have worked with: \\
-_Current Advisee_: Himanshu Sahu (PhD), Noam Scully (PhD) \\
-_Former Advisee_: Santanu Antu (Master —> PhD @ Yale University) \\
+_Current Advisees_: Himanshu Sahu (PhD), Noam Scully (PhD) \\
+_Former Advisees_: Santanu Antu (Master —> PhD @ Yale University) \\
 _Former Student Collaborators_: Argyris Giannisis Manes (Undergraduate —> PhD @ UChicago); Zachary Mann (Master —> PhD @ Caltech); Sophie Kadan (Undergraduate —> Incoming PhD @ Princeton); Giuseppe Calabrese (Master —> PhD @ Paul Scherrer Institute)
 
 (Last updated on November 12, 2025)  
