@@ -27,7 +27,7 @@ _Current Advisee_: Himanshu Sahu (PhD), Noam Scully (PhD) \\
 _Former Advisee_: Santanu Antu (Master —> PhD @ Yale University) \\
 _Former Student Collaborators_: Argyris Giannisis Manes (Undergraduate —> PhD @ UChicago); Zachary Mann (Master —> PhD @ Caltech); Sophie Kadan (Undergraduate —> Incoming PhD @ Princeton); Giuseppe Calabrese (Master —> PhD @ Paul Scherrer Institute)
 
-(Last updated on September 15, 2025)  
+(Last updated on November 12, 2025)  
 
 ## Selected Preprints
 
