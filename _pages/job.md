@@ -12,7 +12,7 @@ author_profile: true
 PhD students supervised by Faculty at Perimeter Institute receive their degree from a partnering university where their supervisor has a full or adjunct appointment. To apply to become a PhD student in my group, please apply to 
 [Department of Physics and Astronomy](https://uwaterloo.ca/physics-astronomy/graduate-studies/how-apply) ([Physics (Quantum Information)](https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/future-students/programs/physics-phd-quantum-information-waterloo) track) or [Department of Applied Mathematics]( https://uwaterloo.ca/applied-mathematics/graduate-students/applying ) at the University of Waterloo ([Applied Mathematics (Quantum Information)](https://uwaterloo.ca/future-graduate-students/programs/by-faculty/math/applied-mathematics-quantum-information-doctor-philosophy) track) and indicate my name in the essays. 
 
-Please also apply to [PhD Residency Program Award](https://perimeterinstitute.ca/phd-students) at Perimeter simultaneously to gain additional benefits (beyond being a PhD student at UWaterloo) including additional resources and funding. 
+Please also apply to [PhD Residency Program Award](https://perimeterinstitute.ca/training/phd-students) at Perimeter simultaneously to gain additional benefits (beyond being a PhD student at UWaterloo) including additional resources and funding. 
 
 **Deadlines are January 9 (for Physics) and January 15 (for Applied Mathematics) for admission in September 2026.**
 
