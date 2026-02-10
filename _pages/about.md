@@ -127,7 +127,7 @@ Sisi Zhou, Liang Jiang\\
 
 **Achieving the Heisenberg limit in quantum metrology using quantum error correction**\\
 Sisi Zhou, Mengzhen Zhang, John Preskill, Liang Jiang\\
-*<a href="https://www.nature.com/articles/s41467-017-02510-3" style="color: #1616a0; text-decoration: none;">Nature Communications 9, 78 (2018)</a> & <a href="https://qipconference.org/2018/qutech.nl/qip2018/qip-2018-conference-schedule/index.html" style="color: #1616a0; text-decoration: none;">QIP 2018</a>* <a href="https://arxiv.org/abs/1706.02445" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[arXiv]</a> <a href="https://collegerama.tudelft.nl/Mediasite/Showcase/qip2018/Presentation/a46a51e8f5fd4fe1a07a1bcf28c343011d" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[talk at QIP]</a>
+*<a href="https://www.nature.com/articles/s41467-017-02510-3" style="color: #1616a0; text-decoration: none;">Nature Communications, 9:78 (2018)</a> & <a href="https://qipconference.org/2018/qutech.nl/qip2018/qip-2018-conference-schedule/index.html" style="color: #1616a0; text-decoration: none;">QIP 2018</a>* <a href="https://arxiv.org/abs/1706.02445" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[arXiv]</a> <a href="https://collegerama.tudelft.nl/Mediasite/Showcase/qip2018/Presentation/a46a51e8f5fd4fe1a07a1bcf28c343011d" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[talk at QIP]</a>
 
 
 $^\*$ denotes equal contribution or alphabetical order.
