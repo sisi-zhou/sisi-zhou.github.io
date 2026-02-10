@@ -51,7 +51,7 @@ Sisi Zhou, Senrui Chen\\
 
 **Advancing quantum imaging through learning theory** \\
 Yunkai Wang, Changhun Oh, Junyu Liu, Liang Jiang, Sisi Zhou\\
-*<a href="https://www.nature.com/articles/s41467-025-67884-1" style="color: #1616a0; text-decoration: none;">Nature Communications 17:1124 (2026)</a>* <a href="https://arxiv.org/abs/2501.15685" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[arXiv]</a>
+*<a href="https://www.nature.com/articles/s41467-025-67884-1" style="color: #1616a0; text-decoration: none;">Nature Communications, 17:1124 (2026)</a>* <a href="https://arxiv.org/abs/2501.15685" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[arXiv]</a>
 
 **Quantum learning advantage on a scalable photonic platform** \\
 Zheng-Hao Liu, Romain Brunel, Emil E. B. Østergaard, Oscar Cordero, Senrui Chen, Yat Wong, Jens A. H. Nielsen, Axel B. Bregnsbo, Sisi Zhou, Hsin-Yuan Huang, Changhun Oh, Liang Jiang, John Preskill, Jonas S. Neergaard-Nielsen, Ulrik L. Andersen\\
