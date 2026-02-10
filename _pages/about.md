@@ -35,7 +35,7 @@ _Former Advisees_: Santanu Antu (Master —> PhD @ Yale University)
 
 
 **Instance-optimal high-precision shadow tomography with few-copy measurements: A metrological approach**\\
-Senrui Chen, Weiyuan Gong, Sisi Zhou\\
+Senrui Chen$^\*$, Weiyuan Gong$^\*$, Sisi Zhou$^\*$\\
 *<a href="https://arxiv.org/abs/2602.04952" style="color: #1616a0; text-decoration: none;">arXiv: 2602.04952</a>* 
 
 **Small correlation is sufficient for optimal noisy quantum metrology**\\
