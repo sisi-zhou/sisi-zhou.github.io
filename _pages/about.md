@@ -29,9 +29,14 @@ _Former Advisees_: Santanu Antu (Master —> PhD @ Yale University)
 
 <!-- _Former Student Collaborators_: Argyris Giannisis Manes (Undergraduate —> PhD @ UChicago); Zachary Mann (Master —> PhD @ Caltech); Sophie Kadan (Undergraduate —> Incoming PhD @ Princeton); Giuseppe Calabrese (Master —> PhD @ Paul Scherrer Institute) -->
 
-(Last updated on November 12, 2025)  
+(Last updated on Feb 09, 2025)  
 
 ## Selected Preprints
+
+
+**Instance-optimal high-precision shadow tomography with few-copy measurements: A metrological approach**\\
+Senrui Chen, Weiyuan Gong, Sisi Zhou\\
+*<a href="https://arxiv.org/abs/2602.04952" style="color: #1616a0; text-decoration: none;">arXiv: 2602.04952</a>* 
 
 **Small correlation is sufficient for optimal noisy quantum metrology**\\
 Chao Yin, Victor V. Albert, Sisi Zhou\\
