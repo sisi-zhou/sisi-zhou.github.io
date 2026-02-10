@@ -29,7 +29,7 @@ _Former Advisees_: Santanu Antu (Master —> PhD @ Yale University)
 
 <!-- _Former Student Collaborators_: Argyris Giannisis Manes (Undergraduate —> PhD @ UChicago); Zachary Mann (Master —> PhD @ Caltech); Sophie Kadan (Undergraduate —> Incoming PhD @ Princeton); Giuseppe Calabrese (Master —> PhD @ Paul Scherrer Institute) -->
 
-(Last updated on Feb 09, 2025)  
+(Last updated on Feb 09, 2026)  
 
 ## Selected Preprints
 
