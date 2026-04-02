@@ -38,6 +38,10 @@ _Former Advisees_: Santanu Antu (Master —> PhD @ Yale University)
 Senrui Chen$^\*$, Weiyuan Gong$^\*$, Sisi Zhou$^\*$\\
 *<a href="https://arxiv.org/abs/2602.04952" style="color: #1616a0; text-decoration: none;">arXiv: 2602.04952</a>* 
 
+**Efficient learning of logical noise from syndrome data**
+Han Zheng, Chia-Tung Chu, Senrui Chen, Argyris Giannisis Manes, Su-un Lee, Sisi Zhou, Liang Jiang\\
+*<a href="https://arxiv.org/abs/2601.22286" style="color: #1616a0; text-decoration: none;">arXiv: 2601.22286</a>* 
+
 **Achieving the Heisenberg limit using fault-tolerant quantum error correction**\\
 Himanshu Sahu, Qian Xu, Sisi Zhou\\
 *<a href="https://arxiv.org/abs/2601.05457" style="color: #1616a0; text-decoration: none;">arXiv: 2601.05457</a>* 
