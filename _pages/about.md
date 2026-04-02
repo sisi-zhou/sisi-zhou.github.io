@@ -42,17 +42,15 @@ Senrui Chen$^\*$, Weiyuan Gong$^\*$, Sisi Zhou$^\*$\\
 Himanshu Sahu, Qian Xu, Sisi Zhou\\
 *<a href="https://arxiv.org/abs/2601.05457" style="color: #1616a0; text-decoration: none;">arXiv: 2601.05457</a>* 
 
-
-**Small correlation is sufficient for optimal noisy quantum metrology**\\
-Chao Yin, Victor V. Albert, Sisi Zhou\\
-*<a href="https://arxiv.org/abs/2408.00079" style="color: #1616a0; text-decoration: none;">arXiv: 2408.00079</a>* 
-
 ## Selected Publications
 
+**Metrologically optimal quantum states under noise**\\
+Chao Yin, Victor V. Albert, Sisi Zhou\\
+*<a href="https://quantum-journal.org/papers/q-2026-04-01-2050/" style="color: #1616a0; text-decoration: none;">Quantum, 10:2050 (2026)</a>* <a href="https://arxiv.org/abs/2408.00079" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[arXiv]</a> 
 
 **Randomized measurements for multi-parameter quantum metrology** \\
 Sisi Zhou, Senrui Chen\\
-*<a href="https://doi.org/10.1103/s27y-gbrp" style="color: #1616a0; text-decoration: none;">PRX Quantum, 7:010314 (2026)</a> & <a href="https://qsimconference.org/talk/randomized-measurements-for-multi-parameter-quantum-metrology/" style="color: #1616a0; text-decoration: none;">QSim 2025</a>* <a href="https://arxiv.org/abs/2502.03536" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[arXiv]</a> <a href="https://youtu.be/4IlzctNte7U?si=LgSs6dMH5nnzmrH2" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[talk at QSim]</a>
+*<a href="https://doi.org/10.1103/s27y-gbrp" style="color: #1616a0; text-decoration: none;">PRX Quantum, 7:010314 (2026)</a> & <a href="https://qsimconference.org/talk/randomized-measurements-for-multi-parameter-quantum-metrology/" style="color: #1616a0; text-decoration: none;">QSim 2025</a>* <a href="https://arxiv.org/abs/2502.03536" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[arXiv]</a> <a href="https://youtu.be/4IlzctNte7U?si=LgSs6dMH5nnzmrH2" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[talk at QSim]</a> 
 
 **Advancing quantum imaging through learning theory** \\
 Yunkai Wang, Changhun Oh, Junyu Liu, Liang Jiang, Sisi Zhou\\
