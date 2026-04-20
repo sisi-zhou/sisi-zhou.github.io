@@ -29,7 +29,7 @@ _Former Advisees_: Santanu Antu (Master —> PhD @ Yale University)
 
 <!-- _Former Student Collaborators_: Argyris Giannisis Manes (Undergraduate —> PhD @ UChicago); Zachary Mann (Master —> PhD @ Caltech); Sophie Kadan (Undergraduate —> Incoming PhD @ Princeton); Giuseppe Calabrese (Master —> PhD @ Paul Scherrer Institute) -->
 
-(Last updated on April 02, 2026)  
+(Last updated on April 20, 2026)  
 
 ## Selected Preprints
 
@@ -40,7 +40,7 @@ Senrui Chen$^\*$, Weiyuan Gong$^\*$, Sisi Zhou$^\*$\\
 
 **Efficient learning of logical noise from syndrome data**\\
 Han Zheng, Chia-Tung Chu, Senrui Chen, Argyris Giannisis Manes, Su-un Lee, Sisi Zhou, Liang Jiang\\
-*<a href="https://arxiv.org/abs/2601.22286" style="color: #1616a0; text-decoration: none;">arXiv: 2601.22286</a>* 
+*<a href="https://arxiv.org/abs/2601.22286" style="color: #1616a0; text-decoration: none;">arXiv: 2601.22286</a>* [accepted for QEC2026]
 
 **Achieving the Heisenberg limit using fault-tolerant quantum error correction**\\
 Himanshu Sahu, Qian Xu, Sisi Zhou\\
