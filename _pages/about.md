@@ -29,14 +29,17 @@ _Former Advisees_: Santanu Antu (Master —> PhD @ Yale University)
 
 <!-- _Former Student Collaborators_: Argyris Giannisis Manes (Undergraduate —> PhD @ UChicago); Zachary Mann (Master —> PhD @ Caltech); Sophie Kadan (Undergraduate —> Incoming PhD @ Princeton); Giuseppe Calabrese (Master —> PhD @ Paul Scherrer Institute) -->
 
-(Last updated on April 20, 2026)  
+(Last updated on May 06, 2026)  
 
 ## Selected Preprints
 
+**Quantum metrology of mixed states via purification**\\
+Sisi Zhou\\
+*<a href="https://arxiv.org/abs/2605.03975" style="color: #1616a0; text-decoration: none;">arXiv: 2605.03975</a>* [accepted for COLT2026]
 
 **Instance-optimal high-precision shadow tomography with few-copy measurements: A metrological approach**\\
 Senrui Chen$^\*$, Weiyuan Gong$^\*$, Sisi Zhou$^\*$\\
-*<a href="https://arxiv.org/abs/2602.04952" style="color: #1616a0; text-decoration: none;">arXiv: 2602.04952</a>* 
+*<a href="https://arxiv.org/abs/2602.04952" style="color: #1616a0; text-decoration: none;">arXiv: 2602.04952</a>* [accepted for COLT2026]
 
 **Efficient learning of logical noise from syndrome data**\\
 Han Zheng, Chia-Tung Chu, Senrui Chen, Argyris Giannisis Manes, Su-un Lee, Sisi Zhou, Liang Jiang\\
