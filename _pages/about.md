@@ -35,7 +35,7 @@ _Former Advisees_: Santanu Antu (Master —> PhD @ Yale University)
 
 **Quantum metrology of mixed states via purification**\\
 Sisi Zhou\\
-*<a href="https://arxiv.org/abs/2605.03975" style="color: #1616a0; text-decoration: none;">arXiv: 2605.03975</a>* [accepted for COLT2026]
+*<a href="https://arxiv.org/abs/2605.03975" style="color: #1616a0; text-decoration: none;">arXiv: 2605.03975</a>*
 
 **Instance-optimal high-precision shadow tomography with few-copy measurements: A metrological approach**\\
 Senrui Chen$^\*$, Weiyuan Gong$^\*$, Sisi Zhou$^\*$\\
