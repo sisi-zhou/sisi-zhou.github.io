@@ -29,9 +29,25 @@ _Former Advisees_: Santanu Antu (Master —> PhD @ Yale University)
 
 <!-- _Former Student Collaborators_: Argyris Giannisis Manes (Undergraduate —> PhD @ UChicago); Zachary Mann (Master —> PhD @ Caltech); Sophie Kadan (Undergraduate —> Incoming PhD @ Princeton); Giuseppe Calabrese (Master —> PhD @ Paul Scherrer Institute) -->
 
-(Last updated on May 06, 2026)  
+(Last updated on July 02, 2026)  
 
 ## Selected Preprints
+
+**Subsystem quantum error correction for noisy quantum metrology**\\
+Qiushi Liu, Sisi Zhou\\
+*<a href="https://arxiv.org/abs/2606.19628" style="color: #1616a0; text-decoration: none;">arXiv: 2606.19628</a>*
+
+**Optimal classical shadow estimation of unitary channels at Heisenberg limit**\\
+Entong He, Zihao Li, Noam Scully, Sisi Zhou, Yuxiang Yang\\
+*<a href="https://arxiv.org/abs/2606.13638" style="color: #1616a0; text-decoration: none;">arXiv: 2606.13638</a>*
+
+**Distributed estimation of many-body Hamiltonians via punctured surface code**\\
+Linmu Qiao, Zhichun Ouyang, Sisi Zhou\\
+*<a href="https://arxiv.org/abs/2605.11092" style="color: #1616a0; text-decoration: none;">arXiv: 2605.11092</a>*
+
+**Quantum metrology via partial quantum error correction**\\
+Yinan Chen, Zongyuan Wang, Sisi Zhou\\
+*<a href="https://arxiv.org/abs/2605.08341" style="color: #1616a0; text-decoration: none;">arXiv: 2605.08341</a>*
 
 **Quantum metrology of mixed states via purification**\\
 Sisi Zhou\\
