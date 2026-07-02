@@ -37,10 +37,6 @@ _Former Advisees_: Santanu Antu (Master —> PhD @ Yale University)
 Sisi Zhou\\
 *<a href="https://arxiv.org/abs/2605.03975" style="color: #1616a0; text-decoration: none;">arXiv: 2605.03975</a>*
 
-**Instance-optimal high-precision shadow tomography with few-copy measurements: A metrological approach**\\
-Senrui Chen$^\*$, Weiyuan Gong$^\*$, Sisi Zhou$^\*$\\
-*<a href="https://arxiv.org/abs/2602.04952" style="color: #1616a0; text-decoration: none;">arXiv: 2602.04952</a>* [accepted for COLT2026]
-
 **Efficient learning of logical noise from syndrome data**\\
 Han Zheng, Chia-Tung Chu, Senrui Chen, Argyris Giannisis Manes, Su-un Lee, Sisi Zhou, Liang Jiang\\
 *<a href="https://arxiv.org/abs/2601.22286" style="color: #1616a0; text-decoration: none;">arXiv: 2601.22286</a>* [accepted for QEC2026]
@@ -50,6 +46,10 @@ Himanshu Sahu, Qian Xu, Sisi Zhou\\
 *<a href="https://arxiv.org/abs/2601.05457" style="color: #1616a0; text-decoration: none;">arXiv: 2601.05457</a>* 
 
 ## Selected Publications
+
+**Instance-optimal high-precision shadow tomography with few-copy measurements: A metrological approach**\\
+Senrui Chen$^\*$, Weiyuan Gong$^\*$, Sisi Zhou$^\*$\\
+*<a href="https://proceedings.mlr.press/v336/chen26c.html" style="color: #1616a0; text-decoration: none;">Proceedings of Thirty Ninth Conference on Learning Theory, PMLR 336:1115-1185 (2026)</a>* <a href="https://arxiv.org/abs/2602.04952" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[arXiv]</a>
 
 **Metrologically optimal quantum states under noise**\\
 Chao Yin, Victor V. Albert, Sisi Zhou\\
