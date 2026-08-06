@@ -33,6 +33,10 @@ _Former Advisees_: Santanu Antu (Master —> PhD @ Yale University)
 
 ## Selected Preprints
 
+**Near-optimal quantum metrology with few-qubit measurements**\\
+Liang Mao, Senrui Chen, Hsin-Yuan Huang, John Preskill, Sisi Zhou\\
+*<a href="https://arxiv.org/abs/2608.01617" style="color: #1616a0; text-decoration: none;">arXiv: 2608.01617</a>*
+
 **Subsystem quantum error correction for noisy quantum metrology**\\
 Qiushi Liu, Sisi Zhou\\
 *<a href="https://arxiv.org/abs/2606.19628" style="color: #1616a0; text-decoration: none;">arXiv: 2606.19628</a>*
