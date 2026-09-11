@@ -20,7 +20,7 @@ From 2021-2023, I was an IQIM postdoctoral scholar at California Institute of Te
 
 My research interests include quantum metrology, quantum error correction, and quantum learning. Selected publications of mine can be found below. 
 
-My email address is szhou1 at perimeterinstitute dot ca. See information on job opportunities <a href="https://sisi-zhou.github.io//job/" style="color: #1616a0; text-decoration: none;">here</a>. 
+My email address is sisi.zhou26 at gmail dot com. See information on job opportunities <a href="https://sisi-zhou.github.io//job/" style="color: #1616a0; text-decoration: none;">here</a>. 
 
 <!-- Below is a list of students I have worked with: \\ -->
 
