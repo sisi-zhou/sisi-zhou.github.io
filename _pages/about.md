@@ -29,9 +29,13 @@ _Former Advisees_: Santanu Antu (Master —> PhD @ Yale University)
 
 <!-- _Former Student Collaborators_: Argyris Giannisis Manes (Undergraduate —> PhD @ UChicago); Zachary Mann (Master —> PhD @ Caltech); Sophie Kadan (Undergraduate —> Incoming PhD @ Princeton); Giuseppe Calabrese (Master —> PhD @ Paul Scherrer Institute) -->
 
-(Last updated on July 02, 2026)  
+(Last updated on Sept 21, 2026)  
 
 ## Selected Preprints
+
+**Private correlations certify sensing capability**\\
+Yunkai Wang, Peixue Wu, Graeme Smith, Sisi Zhou\\
+*<a href="https://arxiv.org/abs/2608.10377" style="color: #1616a0; text-decoration: none;">arXiv: 2608.10377</a>*
 
 **Near-optimal quantum metrology with few-qubit measurements**\\
 Liang Mao, Senrui Chen, Hsin-Yuan Huang, John Preskill, Sisi Zhou\\
