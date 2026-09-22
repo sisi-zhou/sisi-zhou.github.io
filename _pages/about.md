@@ -65,11 +65,13 @@ Sisi Zhou\\
 Han Zheng, Chia-Tung Chu, Senrui Chen, Argyris Giannisis Manes, Su-un Lee, Sisi Zhou, Liang Jiang\\
 *<a href="https://arxiv.org/abs/2601.22286" style="color: #1616a0; text-decoration: none;">arXiv: 2601.22286</a> & <a href="https://qec-conference.org/2026/accepted-papers/" style="color: #1616a0; text-decoration: none;">QEC 2026</a>*
 
+## Selected Publications
+
+
 **Achieving the Heisenberg limit using fault-tolerant quantum error correction**\\
 Himanshu Sahu, Qian Xu, Sisi Zhou\\
-*<a href="https://arxiv.org/abs/2601.05457" style="color: #1616a0; text-decoration: none;">arXiv: 2601.05457</a>* 
+*<a href="https://doi.org/10.1103/5wpc-w64n" style="color: #1616a0; text-decoration: none;">Physical Review A, 114:032607 (2026)</a>* <a href="https://arxiv.org/abs/2601.05457" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[arXiv]</a> 
 
-## Selected Publications
 
 **Instance-optimal high-precision shadow tomography with few-copy measurements: A metrological approach**\\
 Senrui Chen$^\*$, Weiyuan Gong$^\*$, Sisi Zhou$^\*$\\
