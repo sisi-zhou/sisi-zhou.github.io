@@ -25,7 +25,7 @@ My email address is sisi.zhou26 at gmail dot com. See information on job opportu
 <!-- Below is a list of students I have worked with: \\ -->
 
 _Current Advisees_: Himanshu Sahu (PhD 2024-), Noam Scully (PhD 2025-) \\
-_Former Advisees_: Santanu Antu (PSI MSc 2023-2024 —> PhD @ Yale University 2024-), Giuseppe Calabrese (ETH MSc 2024-2025 -> PhD @ Paul Scherrer Institute 2025-) 
+_Former Advisees_: Santanu Antu (PSI MSc 2023-2024 —> PhD @ Yale University), Giuseppe Calabrese (ETH MSc 2024-2025 -> PhD @ Paul Scherrer Institute) 
 
 <!-- _Former Student Collaborators_: Argyris Giannisis Manes (Undergraduate —> PhD @ UChicago); Zachary Mann (Master —> PhD @ Caltech); Sophie Kadan (Undergraduate —> Incoming PhD @ Princeton); Giuseppe Calabrese (Master —> PhD @ Paul Scherrer Institute) -->
 
