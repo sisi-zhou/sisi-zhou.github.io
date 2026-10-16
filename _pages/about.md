@@ -33,6 +33,10 @@ _Former Advisees_: Santanu Antu (PSI MSc 2023-2024 —> PhD @ Yale University), 
 
 ## Selected Preprints
 
+**Near-optimal parallel unitary process tomography in diamond distance**\\
+Noam Scully, Sisi Zhou\\
+*<a href="https://arxiv.org/abs/2609.36127" style="color: #1616a0; text-decoration: none;">arXiv: 2609.36127</a>*
+
 **Private correlations certify sensing capability**\\
 Yunkai Wang, Peixue Wu, Graeme Smith, Sisi Zhou\\
 *<a href="https://arxiv.org/abs/2608.10377" style="color: #1616a0; text-decoration: none;">arXiv: 2608.10377</a>*
@@ -44,10 +48,6 @@ Liang Mao, Senrui Chen, Hsin-Yuan Huang, John Preskill, Sisi Zhou\\
 **Subsystem quantum error correction for noisy quantum metrology**\\
 Qiushi Liu, Sisi Zhou\\
 *<a href="https://arxiv.org/abs/2606.19628" style="color: #1616a0; text-decoration: none;">arXiv: 2606.19628</a>*
-
-**Optimal classical shadow estimation of unitary channels at Heisenberg limit**\\
-Entong He, Zihao Li, Noam Scully, Sisi Zhou, Yuxiang Yang\\
-*<a href="https://arxiv.org/abs/2606.13638" style="color: #1616a0; text-decoration: none;">arXiv: 2606.13638</a>*
 
 **Distributed estimation of many-body Hamiltonians via punctured surface code**\\
 Linmu Qiao, Zhichun Ouyang, Sisi Zhou\\
