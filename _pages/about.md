@@ -83,7 +83,9 @@ Chao Yin, Victor V. Albert, Sisi Zhou\\
 
 **Randomized measurements for multi-parameter quantum metrology** \\
 Sisi Zhou, Senrui Chen\\
-*<a href="https://doi.org/10.1103/s27y-gbrp" style="color: #1616a0; text-decoration: none;">PRX Quantum, 7:010314 (2026)</a> & <a href="https://qsimconference.org/talk/randomized-measurements-for-multi-parameter-quantum-metrology/" style="color: #1616a0; text-decoration: none;">QSim 2025</a>* <a href="https://arxiv.org/abs/2502.03536" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[arXiv]</a> <a href="https://youtu.be/4IlzctNte7U?si=LgSs6dMH5nnzmrH2" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[talk at QSim]</a> [accepted for TQC2026]
+*<a href="https://doi.org/10.1103/s27y-gbrp" style="color: #1616a0; text-decoration: none;">PRX Quantum, 7:010314 (2026)</a> & <a href="https://qsimconference.org/talk/randomized-measurements-for-multi-parameter-quantum-metrology/" style="color: #1616a0; text-decoration: none;">QSim 2025</a> & <a href="
+https://tqc-conference.org/2026/accepted-papers/" style="color: #1616a0; text-decoration: none;">TQC 2026</a>* <a href="https://arxiv.org/abs/2502.03536" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[arXiv]</a> <a href="https://youtu.be/4IlzctNte7U?si=LgSs6dMH5nnzmrH2" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[talk at QSim]</a> 
+
 
 **Advancing quantum imaging through learning theory** \\
 Yunkai Wang, Changhun Oh, Junyu Liu, Liang Jiang, Sisi Zhou\\
