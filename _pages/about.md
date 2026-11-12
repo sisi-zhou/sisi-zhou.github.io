@@ -63,7 +63,7 @@ Sisi Zhou\\
 
 **Efficient learning of logical noise from syndrome data**\\
 Han Zheng, Chia-Tung Chu, Senrui Chen, Argyris Giannisis Manes, Su-un Lee, Sisi Zhou, Liang Jiang\\
-*<a href="https://arxiv.org/abs/2601.22286" style="color: #1616a0; text-decoration: none;">arXiv: 2601.22286</a> & <a href="https://qec-conference.org/2026/accepted-papers/" style="color: #1616a0; text-decoration: none;">QEC 2026</a>*
+*<a href="https://arxiv.org/abs/2601.22286" style="color: #1616a0; text-decoration: none;">arXiv: 2601.22286</a> & <a href="https://qec-conference.org/2026/schedule" style="color: #1616a0; text-decoration: none;">QEC 2026</a>*
 
 ## Selected Publications
 
@@ -83,7 +83,7 @@ Chao Yin, Victor V. Albert, Sisi Zhou\\
 
 **Randomized measurements for multi-parameter quantum metrology** \\
 Sisi Zhou, Senrui Chen\\
-*<a href="https://doi.org/10.1103/s27y-gbrp" style="color: #1616a0; text-decoration: none;">PRX Quantum, 7:010314 (2026)</a> & <a href="https://qsimconference.org/talk/randomized-measurements-for-multi-parameter-quantum-metrology/" style="color: #1616a0; text-decoration: none;">QSim 2025</a> & <a href="
+*<a href="https://doi.org/10.1103/s27y-gbrp" style="color: #1616a0; text-decoration: none;">PRX Quantum, 7:010314 (2026)</a> & <a href="https://qsim2025.qsimconference.org/talk/randomized-measurements-for-multi-parameter-quantum-metrology" style="color: #1616a0; text-decoration: none;">QSim 2025</a> & <a href="
 https://tqc-conference.org/2026/accepted-papers/" style="color: #1616a0; text-decoration: none;">TQC 2026</a>* <a href="https://arxiv.org/abs/2502.03536" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[arXiv]</a> <a href="https://youtu.be/4IlzctNte7U?si=LgSs6dMH5nnzmrH2" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[talk at QSim]</a> 
 
 
@@ -109,7 +109,7 @@ Santanu Bosu Antu, Sisi Zhou\\
 
 **Limits of noisy quantum metrology with restricted quantum controls**\\
 Sisi Zhou\\
-*<a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.170801" style="color: #1616a0; text-decoration: none;">Physical Review Letters, 133:170801 (2024)</a> & <a href="https://tqc-conference.org/talks2024/" style="color: #1616a0; text-decoration: none;">TQC 2024</a>* <a href="https://arxiv.org/abs/2402.18765" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[arXiv]</a> <a href="https://www.youtube.com/watch?v=aAzV9PORL5Q" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[talk at TQC]</a>
+*<a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.170801" style="color: #1616a0; text-decoration: none;">Physical Review Letters, 133:170801 (2024)</a> & <a href="https://tqc-conference.org/2024/" style="color: #1616a0; text-decoration: none;">TQC 2024</a>* <a href="https://arxiv.org/abs/2402.18765" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[arXiv]</a> <a href="https://www.youtube.com/watch?v=aAzV9PORL5Q" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[talk at TQC]</a>
 
 **Tight bounds on Pauli channel learning without entanglement**\\
 Senrui Chen, Changhun Oh, Sisi Zhou, Hsin-Yuan Huang, Liang Jiang\\
@@ -165,7 +165,7 @@ Sisi Zhou, Liang Jiang\\
 
 **Achieving the Heisenberg limit in quantum metrology using quantum error correction**\\
 Sisi Zhou, Mengzhen Zhang, John Preskill, Liang Jiang\\
-*<a href="https://www.nature.com/articles/s41467-017-02510-3" style="color: #1616a0; text-decoration: none;">Nature Communications, 9:78 (2018)</a> & <a href="https://qipconference.org/2018/qutech.nl/qip2018/qip-2018-conference-schedule/index.html" style="color: #1616a0; text-decoration: none;">QIP 2018</a>* <a href="https://arxiv.org/abs/1706.02445" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[arXiv]</a> <a href="https://collegerama.tudelft.nl/Mediasite/Showcase/qip2018/Presentation/a46a51e8f5fd4fe1a07a1bcf28c343011d" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[talk at QIP]</a>
+*<a href="https://www.nature.com/articles/s41467-017-02510-3" style="color: #1616a0; text-decoration: none;">Nature Communications, 9:78 (2018)</a> & <a href="https://qip.iaqi.org/2018/qutech.nl/qip2018/qip-2018-conference-schedule/index.html" style="color: #1616a0; text-decoration: none;">QIP 2018</a>* <a href="https://arxiv.org/abs/1706.02445" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[arXiv]</a> <a href="https://collegerama.tudelft.nl/Mediasite/Showcase/qip2018/Presentation/a46a51e8f5fd4fe1a07a1bcf28c343011d" style="color: #2f2f31; text-decoration: underline; text-decoration-style: dotted;">[talk at QIP]</a>
 
 
 $^\*$ denotes equal contribution or alphabetical order.
