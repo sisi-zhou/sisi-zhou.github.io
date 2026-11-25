@@ -20,6 +20,8 @@ From 2021-2023, I was an IQIM postdoctoral scholar at California Institute of Te
 
 My research interests include quantum metrology, quantum error correction, and quantum learning. Selected publications of mine can be found below. 
 
+I am the 2027 recipient of <a href="https://www.aps.org/funding-recognition/prize/george-valley-prize" style="color: #1616a0; text-decoration: none;">APS’ George E. Valley Jr. Prize</a>. 
+
 My email address is sisi.zhou26 at gmail dot com. See information on job opportunities <a href="https://sisi-zhou.github.io//job/" style="color: #1616a0; text-decoration: none;">here</a>. 
 
 <!-- Below is a list of students I have worked with: \\ -->
@@ -29,7 +31,7 @@ _Former Advisees_: Santanu Antu (PSI MSc 2023-2024 -> PhD @ Yale University), Gi
 
 <!-- _Former Student Collaborators_: Argyris Giannisis Manes (Undergraduate —> PhD @ UChicago); Zachary Mann (Master —> PhD @ Caltech); Sophie Kadan (Undergraduate —> Incoming PhD @ Princeton); Giuseppe Calabrese (Master —> PhD @ Paul Scherrer Institute) -->
 
-(Last updated on Sept 21, 2026)  
+(Last updated on Nov 25, 2026)  
 
 ## Selected Preprints
 
