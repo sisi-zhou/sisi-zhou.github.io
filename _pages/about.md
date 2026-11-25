@@ -20,7 +20,7 @@ From 2021-2023, I was an IQIM postdoctoral scholar at California Institute of Te
 
 My research interests include quantum metrology, quantum error correction, and quantum learning. Selected publications of mine can be found below. 
 
-I am the 2027 recipient of <a href="https://www.aps.org/funding-recognition/prize/george-valley-prize" style="color: #1616a0; text-decoration: none;">APS’ George E. Valley Jr. Prize</a>. 
+I was the 2027 recipient of <a href="https://www.aps.org/funding-recognition/prize/george-valley-prize" style="color: #1616a0; text-decoration: none;">APS’ George E. Valley Jr. Prize</a>. 
 
 My email address is sisi.zhou26 at gmail dot com. See information on job opportunities <a href="https://sisi-zhou.github.io//job/" style="color: #1616a0; text-decoration: none;">here</a>. 
 
